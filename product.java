@@ -6,6 +6,6 @@ class product
       a=9;
       b=4;
       product=a*b;
-      System.out.println("* of two no is "=product);
+      System.out.println("* of two no is "+product);
     }
   }
