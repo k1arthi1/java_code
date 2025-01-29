@@ -1,4 +1,7 @@
 class welcome
   {
-    system.out.println("welcome to all")
+  {
+    public static void main (String aregs[])
+  }
+    system.out.println("welcome to all");
   }
